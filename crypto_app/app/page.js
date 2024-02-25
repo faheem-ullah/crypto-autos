@@ -7,12 +7,12 @@ import MainSection from "./components/Main";
 
 export default function Home() {
   return (
-    <div className="">
+    <>
       <Header />
       <MainSection />
       <Courosal />
       <HeroSection />
       <Footer />
-    </div>
+    </>
   )
 }

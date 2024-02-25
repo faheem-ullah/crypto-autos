@@ -10,30 +10,30 @@ const data = [
     {
         id: 1,
         title: "PORSCHE",
-        price: "$ 12300",
-        bitprice: "B 1235",
-        numberflat: "718"
+        price: "$15300",
+        bitprice: "B2.345",
+        numberflat: "545"
     },
     {
         id: 2,
         title: "PORSCHE",
-        price: "$ 12300",
-        bitprice: "B 1235",
-        numberflat: "718"
+        price: "$16400",
+        bitprice: "B6.435",
+        numberflat: "644"
     },
     {
         id: 3,
         title: "PORSCHE",
-        price: "$ 12300",
-        bitprice: "B 1235",
+        price: "$12300",
+        bitprice: "B1.235",
         numberflat: "718"
     },
     {
         id: 4,
         title: "PORSCHE",
-        price: "$12300",
-        bitprice: "B1235",
-        numberflat: "718"
+        price: "$4545",
+        bitprice: "B6.45",
+        numberflat: "645"
     },
 ]
 

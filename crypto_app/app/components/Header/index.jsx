@@ -41,9 +41,9 @@ const Header = () => {
 
       </div>
       <Drawer isOpen={isOpen} toggle={() => setIsOpen(prev => !prev)}>
-        <div className='flex bg-black text-white flex-col text-[13px] mt-8 '>
-          <p className='border-[#333] border-1 border px-2 py-2'>BTC 1</p>
-          <p className='border-[#333] border-1 border px-2 py-2'>BTC 2</p>
+        <div className='flex bg-black text-white flex-col text-[14px] font-[400] mt-8 '>
+          <p className='border-[#333] border-1 border px-2 py-2 cursor-pointer hover:text-orange-600'>BTC-1</p>
+          <p className='border-[#333] border-1 border px-2 py-2 cursor-pointer hover:text-orange-600'>BTC-2</p>
         </div>
       </Drawer>
 
